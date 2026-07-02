@@ -1,6 +1,4 @@
-# My-Tamagotchi
-Privacy Policy
-App: My Tamagotchi (package com.ciy.tamagotchi)
+# Privacy Policy: My Tamagotchi
 Effective date: July 1, 2026
 
 My Tamagotchi is a virtual pet game. This policy explains what information the app handles, how it is used, and the choices you have. The short version: we do not collect, store, or sell your personal information. Your pet lives on your device, and your game data never leaves it. The only third-party data processing happens through Google AdMob, which shows ads in a child-safe, non-personalized configuration.
